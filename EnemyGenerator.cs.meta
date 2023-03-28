@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f18a83d77db34a94aa4486fa432c83bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redEnemy: {fileID: 3575040547455935829, guid: ec85c4fe424d5bd4c8d712d19e96bb00,
+      type: 3}
+  - blueEnemy: {fileID: 2833400511967879609, guid: 9f18c4d608176b94eabbd4934ea862fb,
+      type: 3}
+  - blackEnemy: {fileID: 579530272542061771, guid: 295ae108cb5108f408b15cf45a884812,
+      type: 3}
+  - whiteEnemy: {fileID: 5990586942272097719, guid: 8b8bb27569a928547b8cd9d58b07539c,
+      type: 3}
+  - commandList: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
